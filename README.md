@@ -2,6 +2,6 @@
 - I like Java.
 - I play cello.
 - I like cats.
-## Here's a cool quote.
+## Here's a cool quote:
 > "We've begun to raise our daughters more like sons, but few have the courage to raise our sons more like daughters." \
 > \- Gloria Steinem
