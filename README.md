@@ -1,4 +1,4 @@
-## ISome stuff about me:
+## Some stuff about me:
 - I like Java.
 - I play cello.
 - I like cats.
