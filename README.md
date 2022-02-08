@@ -1,4 +1,4 @@
-## I'm writing this to procrastinate on [Particle Simulator](https://github.com/Brayden-L/Particle-Simulator). Some stuff about me:
+## ISome stuff about me:
 - I like Java.
 - I play cello.
 - I like cats.
